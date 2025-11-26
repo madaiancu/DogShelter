@@ -266,7 +266,7 @@ This project demonstrates:
 ## Author
 
 **Mădălina-Maria Iancu**  
-GitHub: [@madaiancu](https://github.com/madaiancu)
+GitHub: [@madaiancu](https://github.com/madaiancu16)
 
 ## License
 
